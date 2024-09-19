@@ -1,0 +1,30 @@
+.title_container {
+  font-size: 30px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.title_container p {
+  border-bottom: 1.5px solid;
+  display: inline-block;
+}
+
+.main_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.block1,
+.block2 {
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  height: 350px;
+}
+
+.livro {
+  width: 100px;
+}
